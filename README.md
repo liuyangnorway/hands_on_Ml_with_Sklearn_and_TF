@@ -8,6 +8,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 
 * **ApacheCN - 学习机器学习群【629470233】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef"><img border="0" src="/images/MainPage/ApacheCN-group.png" alt="ApacheCN - 学习机器学习群[629470233]" title="ApacheCN - 学习机器学习群[629470233]"></a>**
 * **Machine Learning in Action (机器学习实战) | [ApacheCN(apache中文网)](http://cwiki.apachecn.org/)**
+* **hands_on_Ml_with_Sklearn_and_TF(https://github.com/iamseancheney/hands_on_Ml_with_Sklearn_and_TF)**
 
 
 ## 目录结构
